@@ -2,7 +2,7 @@
 In this project, there is implemention of an application, in Python; that takes a set of text
 files as input. The files shall be in a folder, of which the path is taken from the user.
 The program will preprocess the given text files and answer the queries accordingly. The
-program shall not be case-sensitive, e.g., for a query including “data”, it should also give
+program is not  case-sensitive, e.g., for a query including “data”, it should also give
 output for the word “Data”.
 
 The queries can be:
